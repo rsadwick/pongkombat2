@@ -1,0 +1,425 @@
+
+
+	IT HAS BEGUN!!  (insert wacky tekn0 music here)
+
+			PONG KOMBAT
+			    2.1
+
+	Designed by Third Eye Entertainment
+	 Based on the original Pong Kombat by Gagne Software
+			Which in turn
+		Was based on an original game by Midway
+		  And a really old game by Atari.
+                 
+
+
+		THE OFFICIAL KOMBAT DOKUMENT
+
+SYSTEM REQUIREMENTS
+	IBM compatable 386 or above (486 recommended)
+	Windows 3.1 or Windows 95, 98... kinda crashes under NT 4
+	4 MB Ram
+	20 megs of free disk space
+	A mouse
+	A keyboard (duh)
+	*HiColor (65536 colors, i.e., 2 megs video memory) or higher
+	(supports 256 colors with downgraded image quality)
+	*Any Windows-compatable soundcard.
+	*Two button joystick
+
+*  Optional
+
+
+__________________________________
+
+THE REASON D'ETRE OF PONG KOMBAT 2.  Forward by Stefan Gagne.
+
+Being a poor student with little time or resources on my hands, I 
+have little time to actually make games.  The stars aligned ONCE
+for Pong Kombat 1, which was made as a class project so I would not 
+fail AP Computer Science, and was released to the net for a few 
+of my net.friends, figuring maybe six people would look at it.
+30,000 e-mails and snail mail letters later the phenomenon had gone clearly 
+out of my hands.  It was good and wonderful and all, but I was not gonna be 
+able to hold up the dynasty (if there was to be one) any longer.  
+So I put it on the shelf until such time that I'd have the resources and the
+appropriately low level of sanity to take the paddle up again.
+
+I didn't have to.  Ryan and his cohorts has the balls to make the bloody 
+thing without asking me.  But instead of extreme violence on his personage,
+I looked at the product and realized, yeah, this is pretty much in line
+with the rampant silliness and parody of Pong Kombat.  So, why not?
+Life is funny that way and these guys had the drive to do something special,
+something relatively unique and certainly creative.  The universe deserved
+another Pong Kombat game.
+
+Ergo : this.  It's retroactively officially sanctioned by Gagne Software
+(all one of us) and available for your entertainment.  It has begun.
+But e-mail HIM, not ME!  Him!  HIM!! :)
+
+					-Stefan Gagne
+
+___________________________________________
+
+This game is dedicated to Arturo Aquino, my family, Pong Kombat fans, 
+the people who died in Atlanta's Olympic bombings, and the U.S.A  
+(Only in America Baby!)
+
+					-Ryan Sadwick
+
+___________________________________________
+
+NEWALITIES				(What makes PK2 the best of what's
+					 left of the best of the rest)
+
+-New "Perspective" look!
+-More paddles!
+-More challenge!
+-More secrets!
+-New gameplay 
+-Dismantles
+-Sound effects!
+-Other things worthy of exclamation marks!
+
+BUGS that were SMASHED
+
+-Timers... gone, no more of that "HEY times up" crapola.
+-The ball will never, ever get stuck behind the paddle.
+-Smaller in size, loads so much faster!
+-HUGE logos were taken out and replaced by Third Eye Entertainment.
+-Replaced title screen with a MUCH more smoother and smaller one... hey, they code still
+works ya know :)
+-Endings were reduced from 640X480 to 512X340
+-That huge nag screen with the huge wav file with the huge "warning lable" with the HUGE loading time is GONE!
+
+___________________________________________
+
+
+			INSTALLATION
+
+1.  Run the SETUP.EXE provided, via File Manager, Explorer, or whatever
+    you like to use for your file browsing needs.
+2.  Click on "INSTALL PONG KOMBAT 2 "
+3.  Pick a directory to dump the files into.
+4.  Wait awhile
+5.  Voila (Literally, 'This is a violin')  The game is installed and an
+    icon ready in your Program Manager / Start Bar.
+6.  Click the icon and experience with a finely chilled beverage.
+___________________________________________
+
+		AND NOW, THE CREATIVE STUFF.  STORY AND PLOT
+
+	Years have passed since the defeat of White Paddle at the 
+annual Pong Lao Tournament and Swap Meet.  The victor, Green Paddle, 
+famed archer with nothing better to do that day other than triumph
+over evil, decided to retire to a life of writing.
+Good for her.
+
+	White Paddle didn't get off so easy.  His superiors were
+Really Not Happy At All with his performance, and sent him to the
+outer cult of Pong Lao to be judged.  But there...
+something... happened.  He met up with... something... and that 
+something gave him is soul... with... some catch... deliver the 
+world... into... something's... hands... if... paddles... had..........
+hands....................
+
+	Ahem.  Enough spooky tension.
+
+	Anyway, White cheerfully went about inviting/insisting/forcing
+various paddles to come to a second tournament, with the goal of 
+destroying them all because for some reason this would be very beneficial
+to him.  He's hoping his newly hired second in command, the aptly named 
+Chief Paddle, will just eat 'em for him so he doesn't have to do anything.
+What a loser.
+
+_________________________________________________
+
+		ENOUGH ARTSY CRAP, HOW DO I PLAY?
+
+	First, start the game.  This step is not optional.
+
+	Enjoy the nice opening sequence, then you get an eye pleasing
+menu of choices.  If you would like to see the story, wait a few seconds at
+the start & options screen.
+	If you wait for a few seconds, the story will come up.
+
+	START - Start up a game of Pong Kombat 2
+	OPTIONS - Browse various options to modify game play.
+
+	If you pick options, you can Reboot the game (great for watching the 
+title sequence over), Quit game, so you can get back to doing your real work.  So many choices!
+
+
+	Whatever.  Once your ready to rock, Start a game.  You get a nice looking paddle 
+selection screen.  The names of the paddle's are, clockwise from the top: 
+White Paddle (Not playable), Aqua Paddle, Monolith, Green Paddle, 
+Cyber Paddle, Bloodstone,  Rock Paddle, Spike Paddle, Shifter, and Magma Paddle.
+Nine paddles in all, each have different characteristics (speed, weapons, yadda yadda.)
+
+
+	If you wanna randomly pick a paddle, press Button 1 and Button 2 at the same 
+time rapidly here.
+
+			CONTROLS
+
+	PLAYER 1 (1 Player mode & 2 player mode)
+	
+UP -    UP ARROW                                       
+	
+DOWN -  DOWN ARROW                               
+	
+LEFT -  LEFT ARROW                                    
+       
+RIGHT -   RIGHT ARROW                                  
+	
+BUTTON 1 -  SHIFT                                               
+	
+BUTTON 2 -  CTRL  
+
+
+	If you want to reconfigure the controls for the keyboard, press
+CTRL + Y.  Put the "X" on player 1 or 2 and a list will come up of the 
+buttons you wish to change.  You can not change the config. for the joystick.
+	
+	
+	If you play this game at your workplace or school classroom and your 
+boss\teacher comes in, it F5 for the BOSS ACTIVATOR.  This will hide the
+game.  When they leave, hit F5 again to bring back the game.
+	
+	To pause the game at any time, hit CTRL+P.
+	
+	Intuitive, no?  Once you pick your paddle, the game cycle begins
+with your first opponent.  But before you actually get around to that thing 
+where you bounce a ball around, there are seven boxes to look at the 
+bottom of the VS. screen.  These are, as you probably guessed, good 
+for unlocking secrets.  If you get the right combo of symbols in 'em,
+mystical and cosmic things occur.
+
+	The change the symbol in a box, hit the key corresponding to
+the box you want to toggle.
+
+	The first 3 safes are accessed by pressing 1, 2, or 3.  
+The last 4 can be accessed by pressing 1, 2, 3, 4 on the right side 
+of the keyboard. 
+
+
+	The symbols are as follows, in accordance to number of times 
+you gotta hit the button to shift to that image.  (This is similar
+to the system in sequel three of That Other Game, for those familiar.)
+
+	
+	0- Peace, dude.
+	1- PK2
+	2- Question Mark
+	3- Se7en
+	4- Explanation Point
+	5- PK1 (Ah. The classics.)
+	6- Bomb
+	7- Yin Yang.
+
+	If you're sick of dealing with cryptic little codes and 
+don't wanna bother, just hit enter and make your life easier.
+
+	Now, it's the main event.  Mano a Mano.  Paddleo a Paddleo.  You
+have a few things to keep track of: a life bar, your score, a timer, and
+(obviously) your paddle.  Oh, and that ball thing.
+
+	You lose all your life, you's dead and your opponent wins.  If your
+opponent scores too much before you do, he wins.  Ouch.  It's a tough
+world out there, but you can fight back by getting the ball past him,
+nailing him with a special weapon, finding secrets, or performing a DISMANTLE.  
+Lots of nice ways to win!
+
+	Let's take them one at a time.  Getting the ball past is a fairly
+obvious procedure.  Special are not.  Each paddle has weapons available;
+what good brawl lacks them?  But launch a weapon you need to enter a Code,
+or Special Move, or whatever you like to call it.  What is that code?  
+Gotta find out, holmes.  But here's one you can practice with:  Monolith's
+Star.  Hit DOWN, FORWARD, BACK, BUTTON 2 two times.  Wow!
+
+	Next you have Dismantles.  Tricky, but oh so satisfying.  If you've 
+beaten down your adverse lots and they're near death you might get a 
+"DISMANTLE IT!" message.  Then... YES!  It's another secret combination
+of key presses!  Man, didn't see that coming, did you?  Ahem.
+
+
+	In the unfortunate event of your demise and the GAME OVER logo, you
+have another chance.  If the timer runs out, both paddles are kick out of 
+the meet.  It's... yes.  It's a code.  Don't look at me like that.  Pick 
+'Enter Code' and you'll have two chances to hit a secret which will put
+you back in the game in a big way.  Mind you, it costs one credit to do 
+this, and you can't exactly insert tokens into A:.
+
+	That's all there is to it.
+
+______________________________________________
+
+                         BUGS & ERRORS
+
+     Ah... bugs.  Bane of all programmers, foiler of fun.  We
+think all the bugs are out of PK2, but if you find one, use the
+contact information below and we'll do our best to squash it.
+
+     Another version of PK2 is in the works, tentatively titled
+Supreme PK2.  This should have anything cool we left out of this
+version.  There is no set release date : it will be out when it
+is done.  If you can't wait, go play Quake or something.
+
+     If you're getting slowdown problems, it's probably because
+your computer's too slow.  (Hence 'Slowdown.')  It might help to
+free up some hard disk space for the virtual memory et all,
+though.  The colors also need to be changed to 65536 or higher.
+If they are not, we have found that the game is REALLY slow!
+
+     If the graphics don't look very good, it may be because of
+your video mode.  We designed the game with high quality HiColor
+(65536 colors) in mind, and you should try running it in HiColor
+or Truecolor mode.  If your video card isn't capable of it, this
+isn't possible; but it's a good idea to upgrade your card to a 2
+meg high color card anyway.  It really makes Netscape and other
+'apps look much better, and lets you do some nice stuff.
+	
+	How do I use the joystick?  At anytime hit CTRL+Y.  Then put the "X"
+on joystick.  If you want to reconfigure the controls for the keyboard, put
+the "X" on player 1 or 2 and a list will come up of the buttons you wish to
+change.  You can not change the config. for the joystick. 
+	
+	My joystick does not work.  It must have two buttons and has to be 
+calibrated.  We tested the game with the "Gravis PC Game Pad."  It should
+work perfectly with that.  Make sure the reverse and turbo switches are off.
+
+If you lose or are about to lose, DO NOT bang on the key
+board, or press all the buttons (arrow keys) really fast.
+If you do this, we found that an error appears and you'll
+have to reboot your computer.
+
+     No, it doesn't work in DOS.  PK1 does, though.
+
+---------------------------------------------------------------
+                    LET'S MEET OUR CONTESTANTS
+
+     All key sequences are the same for player 1 or player 2.
+
+Aqua Paddle    She was created by White Paddle, when he got bored
+               one day and had this genetics kit lying around. 
+               Then she finds out her daddy wants to kind of take
+               over the planet and kill everybody.  This isn't in
+               line with her mode of thought, so she comes up
+               with a simple, yet cunning plan : Kill him first.
+                   
+
+
+Monolith       Monolith once was White Paddle's right hand man,
+               despite not being a man and the lack of arms on
+               paddles.  He got a pink slip recently when White
+               found someone he liked better, and has decided to
+               get a little revenge on his old boss and his
+               replacement by entering the tourney.
+                   
+
+Green Paddle   White made something of a mistake here, doing the
+               classic villain thing of coming around town and
+               killing all of the Hero's family.  (Heroine, in
+               this case.  Yes, it's a female paddle.)  Green
+               wasn't happy about this and decided to go get him
+               in the next tournament.
+                   
+
+Cyber Paddle   A mysterious, robotic paddle whose programming
+               seems to be 'Kill Shifter'.  You just can't argue
+               with tight, efficient coding like that.  Not much
+               else is known about him.
+                    
+
+Bloodstone     Even less is known about him except his ex-
+               membership in the Pong Lao Cult.  Chicks dig a
+               mysterious past, though.
+               
+
+Rock Paddle    Arising from the barren wastelands of New Jersey,
+               Rock was invited personally by White.  His thirst
+               for destruction is something even Gatorade can't
+               quench, and his desire is to make all the world a
+               barren wasteland.  Well, at least he has goals.
+                   
+
+Spike Paddle   Spike kind of gatecrashed the party.  Nobody
+               invited him, but White admired his courage and
+               decided to let him stay, despite Spike's
+               intentions to kill White Paddle.
+                  
+
+Shifter        Once a hush-hush secret paddle in Pong Kombat 1
+               and silent bodyguard of White Paddle, Shifter has
+               crawled from his subtoilet sewer home to turn
+               against White Paddle and restore his world back to
+               normality.
+                  
+
+
+Magma Paddle   He was a normal, dull, everyday paddle.  Then
+               White Paddle challenged him to a duel, and kicked
+               his sorry behind into a volcano.  White didn't
+               realize that the volcanic lava gave this paddle
+               Phenomenal Powers and a serious grudge.  With this
+               new identity, he enters the tournament to :
+               surprise!  Kill White Paddle.
+                   
+
+Chief Paddle   Hand picked by White Paddle from Goons 'R Us,
+               nothing is known about him.  Rumor has it he lost
+               to White awhile back, though.
+
+White Paddle   The leader of the pack.  He joined the Pong Lao
+               cult and wiped out their leader, much to the
+               cult's dismay.  He stupidly hosted the next Pong
+               Lao Tournament and Swap Meet and had his paddle
+               beaten in by Green Paddle.  The cult slapped his
+               wrists and took away his soul, until... something
+               claimed it.  Under this something's guidance, he
+               has arisen once more.  Drat the luck.
+
+Secret Paddles... who knows what lurks out there?
+
+--------------------------------------------------------------------
+                         REGISTRATION
+
+Registration is fun, registration is good, and unlike PK1, will
+be replied to because we have enough time to do so. :)  
+
+Last Name : _____________________ First Name : ________________
+
+Address : _____________________________________________________
+
+Phone (Optional) (___) ___-____  City : _______________________
+
+State : ____  Zip : ________  Age (Optional) : ________________
+
+e-mail Address : ______________________________________________
+
+Send to :
+
+    
+
+----------------------------------------------------------------
+
+
+                         LAST WORDS
+
+ - When it's done, Supreme PK2 will be out.
+ - Our next endeavor might be an RPG or fighting game.
+ - A hintbook *might* come out.
+ - No one paid us a cent, nor did we ask for payment.  This game
+   is for fun and the legacy of Pong Kombat!
+
+----------------------------------------------------------------
+
+                         CREDITS
+
+Code / Art / Sound / Yadda              Third Eye Entertainment
+
+Documentation                           Stefan Gagne
+
+Based on Pong Kombat 1 by Gagne Software.  Used with permission.
+
+Thank you, drive through.

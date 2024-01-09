@@ -1,0 +1,417 @@
+			       IT'S HERE! 
+		  The Official Pong Kombat 2 FAQ  Ver. 1.2
+		Written by Ryan Sadwick
+      
+ Based on the original Pong Kombat by Gagne Software, used with permission.
+
+This guide covers most of the questions we were asked.  So read on...
+
+
+	
+			* SECRETS GALORE *
+
+6.  Special Moves for the Regular Paddles
+	
+	D = down, U = up, F = forward, B = back
+	x(number) = hit the key that number of times.  Ex. button 1 x3  = 
+	hit button 1 three times.
+
+Aqua Paddle   
+Aqua Freeze:  F, F, B, button 2  
+Ice Pick:  F, U, U, button 1                            
+Dismantle:  F, F, D, button 2, D  (Freezes opponent then rams them with her 
+                                   head)
+Ending:  Killed White Paddle only to marry her lover, Shifter
+
+Monolith
+Star:  D, F, B, button 2 x2  
+Wooden Stars:  F, D, F, button 2                                                        
+Dismantle:  B, B, U, D, button 1  (Mashes on adversary)
+Ending:  Very pissed off because White Paddle replaced him, he successfully
+electrocutes White.  Now he vows to return the world to it's natural form.
+
+Green Paddle
+Arrow:  D, U, D, button 1
+Flame Arrow:  F, F, F, button 2		          
+Dismantle:  U, D, U, Button 2  (Shoots 3 arrows and they stick in adversary)
+*nudeality* -  F, D, B, U, U, U, U, D, B, F  (Flashes opponent)
+Ending:  An assassin at heart,  she beats the crap out of White Paddle, again.
+She makes him her captive to return the world back, then pushes him into her
+acid pit.
+
+Cyber Paddle
+Laser Hot Spikes:  B, button 2, F, button 1             
+Laser:  D, D, button 2
+Dismantle:  F, B, B, button 2, D  (Takes out a clamp and smashes opponent)
+Ending:  In his past, White Paddle and Shifter destroyed his family and 
+made his homeland home to twisters.  He beats the living paddle guts out 
+of both and returns home.
+
+Bloodstone
+Spinning Blood Stone:  F, F, button 1 x3	
+3 Blood Stones:  U, U, D, D, button 2 x2
+Dismantle:  U, U, U, button 2, button 1, U  (Takes off enemy's head)
+Ending:  Once the Pong Lao Cult leader, White Paddle kicks his butt of the
+throne.  Bloodstone gets his revenge and kills White Paddle.  He leaves the
+circuits for personal reasons.
+
+Rock Paddle
+Boulder:  D, D, U, B, button 2		
+Pebble Spread:  B, B, U, B, button 1          
+Dismantle:  D, D, B, D, U, button 1  (Throws out a boulder and it goes 
+				   through the opponent) *Make sure you aim the fireballs.  If
+			                 they don't hit, no dismantle  
+Ending:  Rock Paddle, Lord Of The Wasteland takes over the meet.  He then
+turns the world into one big wasteland! (not that it is already)
+
+Spike Paddle
+Spiked Ball:  F, B, F, B, button 2				
+Spikes:  button 2 x5			            
+Dismantle: B, B, D, U, button 1  (Rams into opponent several times)
+Ending:  Spike Paddle rampages through the meet and sends White Paddle to is
+demise.  He plans to take over the world!
+
+Shifter
+Sword:  B, B, F, button 1
+Saber:  F, F, F, button 1 x2	                             
+Dismantle:  D, F, F, B, button 2  (Stabs adversary with fencing saber and 
+				           pulls it out...)
+*Spam Lite-ality:  Get a Flawless Victory with SHIFTER.  Press button 1 three 
+times and press up.
+Ending:  The only reason Shifter turned against White Paddle was for the love
+for Aqua Paddle, they rules as king and Queen and eat Spam the rest of there
+lives.
+
+Magma Paddle 
+Fireball (s) 
+	1:  B, F, button 1 		                
+	2:  B, B, button 1 
+	3:  B, B, F, F, button 2
+Dismantle:  D, D, D, B, U  (Shoots two fireballs.  When they hit, enemy 
+			    crumbles.)  *Make sure you aim the fireballs.  If
+			    they don't hit, no dismantle
+Ending:  No one knew is true identify, he quickly takes control.  Defeating
+White, he reveals his true form, the Rainbow Paddle.
+
+7.  SECRETS
+			
+	GAME OVER KODE
+
+	Game Over screen code:  The code for the game over screen 
+is:  1  3  7  0  5  2.  This will access Art Paddle and you will fight 
+against him.  This is the only code for the game over screen.  If you do 
+defeat Art Paddle, you get to play as him!  Only a few have survived.  
+Art Paddle is actually Arturo's paddle.  Art is short for Arturo.  It is sort of like a continue code.
+
+			VS. Screen Lockout Kodes
+	PURPLE PADDLE (playable):             5 2 2 2 2 2 5
+	BLUE PADDLE (playable):                    1 5 5 5 5 5 1
+	WHITE PADDLE (playable):                  1 5 1 5 1 5 1
+	CIGARETTE PADDLE (playable):       7 1 1 1 0 6 2
+	ACID PADDLE (playable):	       2 5 2 5 0 7 5
+	10 BALLS:			       1 0 1 0 1 0 1
+	DENNIS RODMAN TOASY:                7 1 2 3 2 3 3
+	CREDIT SCREEN:                                 5 5 1 1 0 0 7
+	CAST OF SECRET PADDLES:             7 7 5 7 1 0 7 
+
+			After beating White Paddle
+
+	After you annihilate White Paddle and we congratulate you, randomly
+incomplete sentences put up.  (Sometimes they don't at all)  Here are what
+they mean:
+	"SHIFTER IS THE KEY" - Shifter is the best one to pick if you want
+			           to be the best.  He is the best one to use
+			           to defeat White Paddle.
+	"SECRET PADDLES ARE PLAYABLE" - This one really sticks out.  You
+				              can pick all the secret paddles, 
+					        even bosses.
+	"Who is Plaid Paddle?" - A question that deserves an answer.  Plaid
+				       Paddle leaks in the game.  Hit forward
+					 and button 1 when Ryan yells "No Guy."  If
+					 you defeat Plaid, he'll become your slave.
+	"Flawless On White Paddle?$!" - If you do get a flawless on White
+						  paddle, you will get a special 
+						  ending.  Very special...
+	"U+B2=WACKY" - This means 'up plus button 2 equal access to Wacky 
+			   Paddle' when you press this when Arturo goes out and
+			   screams "Wacky Paddle"  If you manage to defeat Wacky,
+			   he'll cherish you forever.
+	"Purple Paddle Transformations" - This means at the VS. screen, you
+						    can turn into one of the best
+						    secret paddles, Purple.  His
+						    code is 5 2 2 2 2 2 5.  Sometimes
+						    if you use "random select"  You 
+						    can get Purple Paddle, but it's
+						    very rare.
+	"Cigarette Paddle" - Hard to believe, but there is a Cigarette Paddle.
+				   You can gain control over him if you enter this
+				   code on the VS. screen:  7 1 1 1 0 6 2.
+
+	*If you do by chance beat our score,(1510173007) you'll be rewarded 
+         by access to the debug menu. 
+
+	Easter Eggs
+
+	At the first title screen where Gagne Software is and the warning 
+signs, double click on the left or right mouse button.  This will change 
+the color of text. 
+			
+
+8. Secret Paddles
+
+	There are a total of 12 secret paddles (including bosses) and all 
+of them are playable.  
+There are two other paddles not shown on this screen.  They can be accessed 
+from the debug menu, under "Super Secret Paddles."  None of these paddles
+have dismantles.
+
+	Plaid Paddle:  When Ryan Sadwick comes out and yells "No Guy,"
+hit Right + Button 1.  Plaid Paddle is good.  He would be easy if it was not
+for those dreaded balls.  If you defeat Plaid, you get to play as him. 
+"No Guy" evolved from when we thought of something so outrageous, we'd 
+say at the same time:  "No Guy!"
+	
+	Wacky Paddle:  When Arturo Aquino comes out and yells "Wacky Paddle,"
+hit Up + Button 2. Wacky is wacky.  Destroy Wacky Paddle, you will get to
+control him.
+	
+	Awesome Paddle:  When both Ryan and Art come out hit, Button 1 +
+Button 2.  Awesome Paddle takes up the whole screen, never missing a ball.
+Kill him and you'll get the debug menu.
+
+
+	To access the secret paddle selection screen type this in at the 
+start & options screen:  RYANART
+	
+	This is the maker's of this game names.  "Ryan Sadwick & Arturo 
+Aquino."  When you key that in, you get the "Secret Paddle Selection Screen."  
+On this screen you can even pick White Paddle who is on the platform.
+Clockwise:
+White Paddle, Acid Paddle, Chief Paddle, Blue Paddle, Red Paddle, Plaid Paddle,
+Wacky Paddle, Cigarette Paddle, Awesome Paddle, Purple Paddle. 
+*None of these paddles have dismantles.
+	
+	D = down, U = up, F = forward, B = back
+x(number) = hit the key that number of times.  Ex. button 1 x3  = 
+hit button 1 three times.
+
+
+White Paddle
+Specials:  3 fireballs:  button 1
+	     6 fireballs:  button 2
+Ending:  As cool as he is, White takes over the world and destroys it.  His
+actions killed that "something" just what his plan was...
+
+Purple Paddle
+Specials:  Spinning razor:  U, U, U, button 1
+Ending:  Not know as being a secret paddle, he surpasses White Paddle and 
+butchers him to death.  Then he turns into a playable paddle for the next
+tourney.
+
+Acid Paddle
+Specials:  Acid Spit:  F, F, button 2
+Ending:  Made of Acid, she melts her way through the meet only to dissolve 
+White with her acid spit!
+
+Blue Paddle
+Specials:  Blue Aura Ball:  button 1 x4
+Ending:  Not known as a secret paddle, he surprises everyone, even you.
+He strangles White Paddle and becomes the greatest secret paddle in history.
+
+Chief Paddle
+Specials:   3 fireballs:  button 1
+	      6 fireballs:  button 2
+Ending:  As stubborn as Chief may be, he is smart enough to kill his own
+master.  He reins supreme!	
+
+Plaid Paddle
+Specials:  Plaid Shovel:  B, B, D, button 2
+Ending:  Thought to be just a rumor, he hears about this and joins the swap
+meet.  He bashes White in with his shovels and turns the world into plaid.
+
+Wacky Paddle
+Specials:  Claw:  D, F, button 1
+Ending:  Insane as he his, he finds out White was going to enslave his race.
+He goes psycho kills him.  He got so crazy, he accidentally exterminated his
+race and himself, never knowing his true identity.
+
+Cigarette Paddle
+Specials:  Smoke:  F, F, F, button 2
+Ending:  White Paddle never knew Brendon Mullis (paddle designer) would make 
+such as thing.  White Paddle smokes him up and kills himself.  Cigarette
+Paddle buys all the Cigarette companies and puts in White Paddle's ashes
+instead of dangerous chemicals.
+
+Awesome Paddle
+Specials:  Stone Ninja Stars:  B, D, B, button 2
+Ending:  Big and bad as he his, Awesome Paddle kills White Paddle easily.
+He plans to marry Chief Paddle.
+
+Red Paddle
+Specials:  Shadow:  D, U, button 1 x2
+Being deformed in Pong Kombat 1, he returns secretly.  He goes crazy and
+kills every paddle, even White Paddle.
+
+
+9. Rankings
+
+	Here is where you find out what your favorite paddle or secret 
+paddle ranks.  All the secret paddles have the advantage of normal paddles.
+
+	Regular Paddles:
+9.    Rock Paddle - Slowest paddle, lots of disadvantages against fast 
+                    paddles.  Good use of special moves will get you some 
+		        where.
+
+8.    Bloodstone - Slow, special weapon is fast, but controlling Bloodstone 
+                   is sticky.
+
+7.    Cyber Paddle - Medium paced speed, nice weapons
+
+6.    Aqua Paddle - Fast paddle, can freeze opponent and mash them with her
+                    other special.
+
+5.    Green Paddle - Fast, slick, beautiful, and weapons are quite fast.
+
+4.    Magma Paddle - Slow but with 3 fireballs, you're sure to kick some 
+                     paddle butt.
+
+3.    Monolith - Fast moving, hits ball accurately, fast star like in PK1 
+                 but not as fast.  Favorite pick of Ryan's.
+
+2.    Spike Paddle - Best all around.  If you are new at this game, he's 
+                     the one to pick.  Good speed, great weapon use.
+
+1.    Shifter - Best paddle period.  Fast moving with fast weapons.  Nice
+		weapon range too.
+	
+	Secret Paddles
+    These were hard to decide since all the secret paddles are good.
+     10.  Acid Paddle
+	9.  Blue Paddle- If you shoot is weapon and it hits the other SIDE
+			 the CPU will lose lives!
+	8.  Red Paddle
+	7.  Cigarette Paddle
+	6.  Wacky Paddle
+	5.  Plaid Paddle
+	4.  Chief Paddle
+	3.  Awesome Paddle
+	2.  Purple Paddle
+	1.  White Paddle
+
+10.  Beating the paddles and secret paddles.
+
+	To be a good PK player, it involves practice.  To be a great PK 
+warrior, it involves hours of play.  *We made this game and played it over
+and over and over, checking for errors and other bugs.  That's how we got
+to be the best!
+	First we recommend you pick Spike Paddle or use random select so
+you can get use to every paddle.  It is possible to beat the game with 
+every paddle.  We've done it, so can you.
+	
+	*Rules for dismantling the CPU*
+
+1.  Always hit the ball.  Who gives a hoot if you get nail a few times with
+specials. (except if you are fighting secret paddles or bosses)  
+
+2.  Use a variety of specials.  All paddles have two weapons, 3 in Magma's 
+case.  Aim at your adversary, don't just shoot blindly!
+
+3.  When against the CPU, use a move we call a slide hit.  This is when the
+ball is coming at and your paddle is at the top or bottom of the screen.  
+Then go down or up to it and nail it and keep going.  Usually the CPU will
+miss.
+
+4.  With slower paddles, keep in the middle and shoot weapons in rapid 
+succession.  Use slide hits.
+
+5.  Train your eyes to focus the ball(s) and keep aiming and firing 
+without looking at the keyboard or joystick.
+
+	*Advice to annihilate the bosses*
+
+1.  Chief Paddle.  Despite his large size, he's fast.  Remember that there
+are four balls to keep track of, so use a lot of slide hits.  When he
+fires his round of fireballs, get down to corner or the top where Chief
+can hit you.  When he has missed, fire!
+
+2.  White Paddle.  The best of the best, or is he...?  He is fast and
+he can shoot 3 to 6 quite large fireballs and they take away a good amount
+of life support.  There is only one ball, so keep your eye on hit. His
+weapons are TOO big and your special will not do much.  He DOES miss.  If
+you notice sometimes when you dodge and go up or down, he'll nail you.  
+So try staying in the middle.  With patients, he'll lose and your the 
+WINNER!
+
+	*Murdering secret paddles*
+
+	All the secret paddles are relatively hard the kill, but there are 
+ways to defeat them all.
+
+	Wacky, Plaid, Art Paddle-  Focus on the balls and avoid getting 
+nailed by his specials.  Dodge them and if you find a space, aim and fire 
+your specials.  You must wait for an opening (when they're not firing) 
+then begin shooting.
+
+	Awesome Paddle-  Hit the ball, I know he'll hit back, but don't miss! 
+He may be huge, but if you shoot out your weapons, you'll almost always hit
+Awesome.  Keep doing that while dodging his weapons.  He mainly shoots in 
+the middle, but the intelligence can change and he'll shoot at the top or
+bottom, sometimes both.
+
+	*Wisdom for playing against a real intelligent life form (Player 2)*
+
+	Two player matches can go on forever. Slidehits can work and confuse 
+your friend but it is best to shoot a weapons and aim for the ball.  
+Especially if the ball is going straight, aim for the ball.  (Shifter is 
+the best to use for this)  Now your opponent has a choice:  Get nailed, but 
+hit the ball resulting in a "Force Hit," or missing the ball 
+completely, but not getting nailed by the special.  We have found if you 
+miss the ball, just to shoot a special moves, the chances are you'll lose.
+Keep track of the ball nad know where it is.
+	 
+11.  SUPER SECRET PADDLES
+
+	These paddles can only be accessed by the debug menu.  They even have
+very interesting endings too.
+
+Art Paddle-  Can be fought with the code in the
+game over lock out code (137052) then if you beat him, you'll control him.
+	Shadow: Button 1  (rapidly)
+	Ending:  Find out yourself...
+
+	Ryan Paddle- Mix of every element known to paddle life.  Can kill
+any paddle in 1 hit. He was used to test the game and we 
+kept him in for your enjoyment.  He is by the far the best paddle in PK 
+history.
+  	Fireball: Button 1 (rapidly)
+	Ending:  Find out yourself...
+
+To get the debug menu at anytime:  At the title screen, double click on the
+"right" mouse button in the "middle" of the "P" in Pong.
+
+		
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
