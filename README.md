@@ -1,6 +1,6 @@
 # Pong Kombat 2
 
-![Screenshot of Pong Kombat 2](https://github.com/rsadwick/pongkombat2/blob/main/examples/screenshot.png) 
+![Screenshot of Pong Kombat 2](https://github.com/rsadwick/pongkombat2/blob/main/screenshot.png) 
 
 ## Overview
 
